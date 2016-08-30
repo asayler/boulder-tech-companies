@@ -43,6 +43,6 @@ Fresh Startups
  
 Government Labs
 ---------------
-[NIST](http://www.nist.gov/ohrm/careers.cfm)/[NTIA](https://www.usajobs.gov/JobSearch/Search/GetResults?OrganizationID=CM61&ApplicantEligibility=All) (Dept. of Commerce Campus)
-[NOAA](http://www.careers.noaa.gov/) (Dept. of Commerce Campus)
-[MITRE](https://www.mitre.org/careers/job-openings) (A couple of small, remote teams)
++ [NIST](http://www.nist.gov/ohrm/careers.cfm)/[NTIA](https://www.usajobs.gov/JobSearch/Search/GetResults?OrganizationID=CM61&ApplicantEligibility=All) (Dept. of Commerce Campus)
++ [NOAA](http://www.careers.noaa.gov/) (Dept. of Commerce Campus)
++ [MITRE](https://www.mitre.org/careers/job-openings) (A couple of small, remote teams)
