@@ -5,7 +5,7 @@ A list of technology-oriented compaines in Boulder, CO and the surrounding areas
 
 By [Andy Sayler](https://www.andysayler.com)
 
-**Last updated**: Augest 2016
+**Last updated**: 3 November 2016
 
 
 National/Multinational Companies w/ a Local Office
@@ -17,6 +17,7 @@ National/Multinational Companies w/ a Local Office
 + [Ubiquiti](http://ubnt.theresumator.com/apply) (Growing Broomfield Office)
 + [IBM](https://www-03.ibm.com/employment/us/) (Large Boulder Office)
 + [Oracle](https://www.oracle.com/corporate/careers/index.html) (Large Broomfield Office)
++ [Qualcomm] (https://www.qualcomm.com/company/careers) (Cyber Security division near Boulder)
 
 Companies Headquartered in/near Boulder
 ---------------------------------------
@@ -46,3 +47,10 @@ Government Labs
 + [NIST](http://www.nist.gov/ohrm/careers.cfm)/[NTIA](https://www.usajobs.gov/JobSearch/Search/GetResults?OrganizationID=CM61&ApplicantEligibility=All) (Dept. of Commerce Campus)
 + [NOAA](http://www.careers.noaa.gov/) (Dept. of Commerce Campus)
 + [MITRE](https://www.mitre.org/careers/job-openings) (A couple of small, remote teams)
+
+Contractors with offices near Boulder/Denver (probably need a security clearance)
+--------------------------------------------------------------------------------------------
++ [Lockheed Martin] (http://search.lockheedmartinjobs.com/ListJobs/ByState/CO/Country-US/)
++ [LGS Innovations](http://www.lgsinnovations.com/home/careers-at-lgs/)
++ [Raytheon] (https://jobs.raytheon.com/)
++ [Northrop Grumman] (http://www.northropgrumman.com/careers/jobsearch/pages/default.aspx)
