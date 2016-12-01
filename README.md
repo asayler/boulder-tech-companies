@@ -48,8 +48,8 @@ Government Labs
 + [NOAA](http://www.careers.noaa.gov/) (Dept. of Commerce Campus)
 + [MITRE](https://www.mitre.org/careers/job-openings) (A couple of small, remote teams)
 
-Contractors with offices near Boulder/Denver (probably need a security clearance)
---------------------------------------------------------------------------------------------
+Government Contractors
+----------------------
 + [Lockheed Martin] (http://search.lockheedmartinjobs.com/ListJobs/ByState/CO/Country-US/)
 + [LGS Innovations](http://www.lgsinnovations.com/home/careers-at-lgs/)
 + [Raytheon] (https://jobs.raytheon.com/)
