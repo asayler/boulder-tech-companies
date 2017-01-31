@@ -5,7 +5,7 @@ A list of technology-oriented compaines in Boulder, CO and the surrounding areas
 
 By [Andy Sayler](https://www.andysayler.com)
 
-**Last updated**: 3 November 2016
+**Last updated**: 30 January 2017
 
 
 National/Multinational Companies w/ a Local Office
@@ -18,6 +18,7 @@ National/Multinational Companies w/ a Local Office
 + [IBM](https://www-03.ibm.com/employment/us/) (Large Boulder Office)
 + [Oracle](https://www.oracle.com/corporate/careers/index.html) (Large Broomfield Office)
 + [Qualcomm] (https://www.qualcomm.com/company/careers) (Cyber Security division near Boulder)
++ [Workiva](https://www.workiva.com/careers) (30+ Boulder office, 50+ Denver)
 
 Companies Headquartered in/near Boulder
 ---------------------------------------
