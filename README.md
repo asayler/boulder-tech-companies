@@ -17,7 +17,7 @@ National/Multinational Companies w/ a Local Office
 + [Ubiquiti](http://ubnt.theresumator.com/apply) (Growing Broomfield Office)
 + [IBM](https://www-03.ibm.com/employment/us/) (Large Boulder Office)
 + [Oracle](https://www.oracle.com/corporate/careers/index.html) (Large Broomfield Office)
-+ [Qualcomm] (https://www.qualcomm.com/company/careers) (Cyber Security division near Boulder)
++ [Qualcomm](https://www.qualcomm.com/company/careers) (Cyber Security division near Boulder)
 + [Workiva](https://www.workiva.com/careers) (30+ Boulder office, 50+ Denver)
 
 Companies Headquartered in/near Boulder
@@ -51,7 +51,7 @@ Government Labs
 
 Government Contractors
 ----------------------
-+ [Lockheed Martin] (http://search.lockheedmartinjobs.com/ListJobs/ByState/CO/Country-US/)
++ [Lockheed Martin](http://search.lockheedmartinjobs.com/ListJobs/ByState/CO/Country-US/)
 + [LGS Innovations](http://www.lgsinnovations.com/home/careers-at-lgs/)
-+ [Raytheon] (https://jobs.raytheon.com/)
-+ [Northrop Grumman] (http://www.northropgrumman.com/careers/jobsearch/pages/default.aspx)
++ [Raytheon](https://jobs.raytheon.com/)
++ [Northrop Grumman](http://www.northropgrumman.com/careers/jobsearch/pages/default.aspx)
